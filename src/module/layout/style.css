@@ -1,0 +1,15 @@
+.feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+}
+.rounded-3 {
+    border-radius: 0.5rem;
+}
+.col-xxl-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
